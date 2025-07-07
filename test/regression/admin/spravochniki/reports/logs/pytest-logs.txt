@@ -1,0 +1,93 @@
+2025-07-03 17:22:18 [   DEBUG] asyncio: Using proactor: IocpProactor
+2025-07-03 17:22:20 [    INFO] ActionPage: Переход по URL: https://edulib-general-2.edu.bars.group/mock-auth
+2025-07-03 17:22:21 [    INFO] ActionPage: Выбор значения 'Республика Татарстан' в селекторе #region-dropdown
+2025-07-03 17:22:21 [    INFO] ActionPage: Ожидание 2 сек.
+2025-07-03 17:22:23 [    INFO] ActionPage: Ожидание 2 сек.
+2025-07-03 17:22:25 [    INFO] ActionPage: Выбор значения 'Кузнецова Екатерина Андреевна' в селекторе #person-dropdown
+2025-07-03 17:22:25 [    INFO] ActionPage: Ожидание 2 сек.
+2025-07-03 17:22:27 [    INFO] ActionPage: Выбор значения 'Администратор системы' в селекторе #role-dropdown
+2025-07-03 17:22:27 [    INFO] ActionPage: Ожидание 5 сек.
+2025-07-03 17:22:32 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/mock-auth/'> selector='//button'>
+2025-07-03 17:22:33 [    INFO] ActionPage: Ожидание загрузки URL: https://edulib-general-2.edu.bars.group/bookfund/
+2025-07-03 17:22:35 [    INFO] ActionPage: Ожидание 7 сек.
+2025-07-03 17:22:42 [    INFO] ActionPage: Ожидание загрузки страницы
+2025-07-03 17:22:42 [    INFO] ActionPage: Ожидание селектора xpath=//div[contains(@class, 'school-select-widget__btn-title') and text()='Выберите организацию'] в течение 10 сек.
+2025-07-03 17:22:42 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="xpath=//div[contains(@class, 'school-select-widget__btn-title') and text()='Выберите организацию']">
+2025-07-03 17:22:42 [    INFO] ActionPage: Можно использовать JavaScript-способ: ждем, пока DOM полностью загрузится
+2025-07-03 17:22:42 [    INFO] ActionPage: Ожидание селектора xpath=//div[contains(@class, 'plex-field-trigger')] в течение 10 сек.
+2025-07-03 17:22:42 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="xpath=//div[contains(@class, 'plex-field-trigger')]">
+2025-07-03 17:22:43 [    INFO] ActionPage: Заполнение поля //div[contains(@class, 'plex-panel__body')]//input[contains(@class, 'plex-field-input')] текстом: МБОУ "СОШ № 22"
+2025-07-03 17:22:43 [    INFO] ActionPage: Ожидание селектора xpath=//div[contains(@class, 'plex-popup')]//div[contains(@class, 'plex-typography') and text()='МБОУ "СОШ № 22"'] в течение 10 сек.
+2025-07-03 17:22:44 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector='xpath=//div[contains(@class, \'plex-popup\')]//div[contains(@class, \'plex-typography\') and text()=\'МБОУ "СОШ № 22"\']'>
+2025-07-03 17:22:44 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="xpath=//button[@class='plex-btn plex-btn-ui-primary plex-btn-l']">
+2025-07-03 17:22:44 [    INFO] ActionPage: Ожидание загрузки URL: https://edulib-general-2.edu.bars.group/bookfund/
+2025-07-03 17:22:44 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="//div[contains(@class, 'header__helpers')]">
+2025-07-03 17:22:50 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/roles'> selector="//div[text()='Авторы']">
+2025-07-03 17:22:51 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="(//button//div[text() = 'Добавить'])[1]">
+2025-07-03 17:22:52 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="(//button//div[text() = 'Сохранить'])[1]">
+2025-07-03 17:22:53 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//div[contains(@class, 'header__menu')]">
+2025-07-03 17:22:53 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//button[contains(@class, 'footer-exit')]">
+2025-07-03 17:22:54 [    INFO] ActionPage: Можно использовать JavaScript-способ: ждем, пока DOM полностью загрузится
+2025-07-03 17:22:54 [    INFO] ActionPage: Ожидание 1 сек.
+2025-07-03 17:22:56 [    INFO] ActionPage: Переход по URL: https://edulib-general-2.edu.bars.group/mock-auth
+2025-07-03 17:22:57 [    INFO] ActionPage: Выбор значения 'Республика Татарстан' в селекторе #region-dropdown
+2025-07-03 17:22:57 [    INFO] ActionPage: Ожидание 2 сек.
+2025-07-03 17:22:59 [    INFO] ActionPage: Ожидание 2 сек.
+2025-07-03 17:23:01 [    INFO] ActionPage: Выбор значения 'Кузнецова Екатерина Андреевна' в селекторе #person-dropdown
+2025-07-03 17:23:01 [    INFO] ActionPage: Ожидание 2 сек.
+2025-07-03 17:23:03 [    INFO] ActionPage: Выбор значения 'Администратор системы' в селекторе #role-dropdown
+2025-07-03 17:23:03 [    INFO] ActionPage: Ожидание 5 сек.
+2025-07-03 17:23:08 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/mock-auth/'> selector='//button'>
+2025-07-03 17:23:08 [    INFO] ActionPage: Ожидание загрузки URL: https://edulib-general-2.edu.bars.group/bookfund/
+2025-07-03 17:23:10 [    INFO] ActionPage: Ожидание 7 сек.
+2025-07-03 17:23:17 [    INFO] ActionPage: Ожидание загрузки страницы
+2025-07-03 17:23:17 [    INFO] ActionPage: Ожидание селектора xpath=//div[contains(@class, 'school-select-widget__btn-title') and text()='Выберите организацию'] в течение 10 сек.
+2025-07-03 17:23:17 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="xpath=//div[contains(@class, 'school-select-widget__btn-title') and text()='Выберите организацию']">
+2025-07-03 17:23:17 [    INFO] ActionPage: Можно использовать JavaScript-способ: ждем, пока DOM полностью загрузится
+2025-07-03 17:23:17 [    INFO] ActionPage: Ожидание селектора xpath=//div[contains(@class, 'plex-field-trigger')] в течение 10 сек.
+2025-07-03 17:23:17 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="xpath=//div[contains(@class, 'plex-field-trigger')]">
+2025-07-03 17:23:17 [    INFO] ActionPage: Заполнение поля //div[contains(@class, 'plex-panel__body')]//input[contains(@class, 'plex-field-input')] текстом: МБОУ "СОШ № 22"
+2025-07-03 17:23:17 [    INFO] ActionPage: Ожидание селектора xpath=//div[contains(@class, 'plex-popup')]//div[contains(@class, 'plex-typography') and text()='МБОУ "СОШ № 22"'] в течение 10 сек.
+2025-07-03 17:23:18 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector='xpath=//div[contains(@class, \'plex-popup\')]//div[contains(@class, \'plex-typography\') and text()=\'МБОУ "СОШ № 22"\']'>
+2025-07-03 17:23:18 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="xpath=//button[@class='plex-btn plex-btn-ui-primary plex-btn-l']">
+2025-07-03 17:23:19 [    INFO] ActionPage: Ожидание загрузки URL: https://edulib-general-2.edu.bars.group/bookfund/
+2025-07-03 17:23:19 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="//div[contains(@class, 'header__helpers')]">
+2025-07-03 17:23:25 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/roles'> selector="//div[text()='Авторы']">
+2025-07-03 17:23:27 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//div[contains(@class, 'plex-typography') and text()='Тестовый автор UI']/ancestor::*[contains(@class, 'plex-grid-row')]//*[@href = '#icon-plex-menu-meatballs-outline']/..">
+2025-07-03 17:23:27 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//div[@class='plex-menu-item__body']//div[text()='Изменить']">
+2025-07-03 17:23:28 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="(//button//div[text() = 'Сохранить'])[1]">
+2025-07-03 17:23:28 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//div[contains(@class, 'header__menu')]">
+2025-07-03 17:23:28 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//button[contains(@class, 'footer-exit')]">
+2025-07-03 17:23:30 [    INFO] ActionPage: Можно использовать JavaScript-способ: ждем, пока DOM полностью загрузится
+2025-07-03 17:23:30 [    INFO] ActionPage: Ожидание 1 сек.
+2025-07-03 17:23:31 [    INFO] ActionPage: Переход по URL: https://edulib-general-2.edu.bars.group/mock-auth
+2025-07-03 17:23:32 [    INFO] ActionPage: Выбор значения 'Республика Татарстан' в селекторе #region-dropdown
+2025-07-03 17:23:32 [    INFO] ActionPage: Ожидание 2 сек.
+2025-07-03 17:23:34 [    INFO] ActionPage: Ожидание 2 сек.
+2025-07-03 17:23:36 [    INFO] ActionPage: Выбор значения 'Кузнецова Екатерина Андреевна' в селекторе #person-dropdown
+2025-07-03 17:23:36 [    INFO] ActionPage: Ожидание 2 сек.
+2025-07-03 17:23:38 [    INFO] ActionPage: Выбор значения 'Администратор системы' в селекторе #role-dropdown
+2025-07-03 17:23:38 [    INFO] ActionPage: Ожидание 5 сек.
+2025-07-03 17:23:43 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/mock-auth/'> selector='//button'>
+2025-07-03 17:23:44 [    INFO] ActionPage: Ожидание загрузки URL: https://edulib-general-2.edu.bars.group/bookfund/
+2025-07-03 17:23:45 [    INFO] ActionPage: Ожидание 7 сек.
+2025-07-03 17:23:52 [    INFO] ActionPage: Ожидание загрузки страницы
+2025-07-03 17:23:52 [    INFO] ActionPage: Ожидание селектора xpath=//div[contains(@class, 'school-select-widget__btn-title') and text()='Выберите организацию'] в течение 10 сек.
+2025-07-03 17:23:53 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="xpath=//div[contains(@class, 'school-select-widget__btn-title') and text()='Выберите организацию']">
+2025-07-03 17:23:53 [    INFO] ActionPage: Можно использовать JavaScript-способ: ждем, пока DOM полностью загрузится
+2025-07-03 17:23:53 [    INFO] ActionPage: Ожидание селектора xpath=//div[contains(@class, 'plex-field-trigger')] в течение 10 сек.
+2025-07-03 17:23:53 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="xpath=//div[contains(@class, 'plex-field-trigger')]">
+2025-07-03 17:23:53 [    INFO] ActionPage: Заполнение поля //div[contains(@class, 'plex-panel__body')]//input[contains(@class, 'plex-field-input')] текстом: МБОУ "СОШ № 22"
+2025-07-03 17:23:53 [    INFO] ActionPage: Ожидание селектора xpath=//div[contains(@class, 'plex-popup')]//div[contains(@class, 'plex-typography') and text()='МБОУ "СОШ № 22"'] в течение 10 сек.
+2025-07-03 17:23:54 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector='xpath=//div[contains(@class, \'plex-popup\')]//div[contains(@class, \'plex-typography\') and text()=\'МБОУ "СОШ № 22"\']'>
+2025-07-03 17:23:54 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="xpath=//button[@class='plex-btn plex-btn-ui-primary plex-btn-l']">
+2025-07-03 17:23:54 [    INFO] ActionPage: Ожидание загрузки URL: https://edulib-general-2.edu.bars.group/bookfund/
+2025-07-03 17:23:54 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/'> selector="//div[contains(@class, 'header__helpers')]">
+2025-07-03 17:24:00 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/roles'> selector="//div[text()='Авторы']">
+2025-07-03 17:24:02 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//div[contains(@class, 'plex-typography') and text()='Тестовый автор UI Изменение']/ancestor::*[contains(@class, 'plex-grid-row')]//*[@href = '#icon-plex-menu-meatballs-outline']/..">
+2025-07-03 17:24:02 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//div[@class='plex-menu-item__body']//div[text()='Удалить']">
+2025-07-03 17:24:03 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="(//button//div[text() = 'Удалить'])[1]">
+2025-07-03 17:24:04 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//div[contains(@class, 'header__menu')]">
+2025-07-03 17:24:04 [    INFO] ActionPage: Клик по элементу: <Locator frame=<Frame name= url='https://edulib-general-2.edu.bars.group/bookfund/admin/authors'> selector="//button[contains(@class, 'footer-exit')]">
+2025-07-03 17:24:05 [    INFO] ActionPage: Можно использовать JavaScript-способ: ждем, пока DOM полностью загрузится
+2025-07-03 17:24:05 [    INFO] ActionPage: Ожидание 1 сек.

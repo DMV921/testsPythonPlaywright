@@ -1,0 +1,1 @@
+AUTHORS_PAGE_BUTTON = "//div[text()='Авторы']"
